@@ -1,6 +1,8 @@
 # DeliveryGame
 This repository is used for assigning the assignment in game development with unity subject.
 
+ [Click to Play](https://play.unity.com/mg/other/deliver-driver)
+
 Map of the game
 <br>
 ![](https://github.com/Rus1999/DeliveryGame/blob/main/guide%20pic/map.png)
